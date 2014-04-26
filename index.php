@@ -6,7 +6,7 @@
 # Versie: 3.0
 # Module: cms
 
-# aaap noot
+# aaap noot mies
 
 # ###############
 #
