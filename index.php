@@ -5,6 +5,8 @@
 # � 2006-2010 sQuarecoW new media
 # Versie: 3.0
 # Module: cms
+
+
 # ###############
 #
 ####################################
@@ -181,7 +183,7 @@ function load_site() {
 
 	# bestaat het aangegeven bestand wel?
 	check_file($view_dir . $context['view']['file']);
-    
+
 	# anders uitvoeren
 	require_once $view_dir . $context['view']['file'];
 	return $context['view']['function']();
