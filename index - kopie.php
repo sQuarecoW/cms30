@@ -6,6 +6,11 @@
 # Versie: 3.0
 # Module: cms
 
+daw
+d
+aw
+da
+
 # aaap noots
 
 mies noooo
@@ -19,19 +24,7 @@ mies noooo
 #
 #	Veel van de php technieken die gebruikt worden zijn ontleend aan SMF >> www.simplemachines.org
 #
-####################################
-# eerst even wat basis dingen
-# start een nieuwe sessie
-session_start();
-
-# zet een constante om de overige pagina's te beveiligen
-define('QWCMS', 1);
-
-# we willen niet overal automatisch slashes
-ini_set('magic_quotes_runtime', 0);
-
-# tijdzone + locale
-date_default_timezone_set('Europe/Amsterdam');
+et('Europe/Amsterdam');
 setlocale(LC_ALL, 'nl_NL', 'nld_nld');
 
 # detecteer de basismap, voor de rechtstreekse includes en file_exists
