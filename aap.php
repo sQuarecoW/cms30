@@ -7,8 +7,7 @@ Joop!
 
 Jaap!
 kkk
-<?php
-# Index-pagina
+<?phpdwdawdwdw
 # ###############
 # Onderdeel van sQuarecoW CMS
 # � 2006-2010 sQuarecoW new media
